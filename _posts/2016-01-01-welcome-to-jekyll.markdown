@@ -2,7 +2,7 @@
 layout: post
 title:  "ブログ始めました"
 date:   2016-01-01 17:36:06 +0900
-categories: jekyll update
+categories: jekyll
 ---
 以下、テンプレート
 -
