@@ -16,7 +16,7 @@ $ brew install elixir
 * Elixir で使用するパッケージ管理ツール Hex をインストール
 
 ```
-$ mix local.mix
+$ mix local.hex
 ```
 
 # Phoenix のインストール
